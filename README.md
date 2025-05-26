@@ -138,6 +138,6 @@ Contributions, issues, and feature requests are welcome!
 Distributed under the MIT License. See `LICENSE` file for more information (if you have one). It's good practice to add a `LICENSE` file to your project root.
 
 ---
-
+##Contract Details:0xf8e998Dfa77959C7cd730Bd7F256C94f28F9E3ab
 *This README was generated with assistance from Cascade, your AI coding partner. Please customize it further to perfectly match your project's specifics!*
 ![image](https://github.com/user-attachments/assets/b12de100-e908-4d81-9d93-75b604e6718a)
